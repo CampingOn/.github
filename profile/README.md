@@ -69,12 +69,13 @@
   - 탈퇴 사유 기록을 통한 서비스 피드백
 
 ## 검색
-### 자동완성
-![eFBFxOts7z](https://github.com/user-attachments/assets/90ea2918-a5f3-4175-aa9c-409c6305b770)
-  - 디바운스를 적용한 자동완성
-
-### 검색
+### 지역 선택과 자동완성
+![자동완성](https://github.com/user-attachments/assets/90ea2918-a5f3-4175-aa9c-409c6305b770)
   - 지역 선택 시 지역명을 우선적으로 검색
+  - 디바운스를 적용한 자동완성
+    
+### 연관 검색
+![연관 검색](https://github.com/user-attachments/assets/3b46932b-5625-4d97-868e-fe08d040504a)
   - 키워드와 연관된 필드들을 가중값에 따라 우선순위를 매겨 검색
 
 ## 예약
